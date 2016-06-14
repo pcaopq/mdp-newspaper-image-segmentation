@@ -2,7 +2,7 @@ function blocks = cleanregion(blocks, threshold, strict)
     num_blocks = size(blocks, 1);
     flag = zeros(num_blocks, 1);
     delete = [];
-    
+    jkdlajfdalk;
     for i = 1:num_blocks
         if flag(i)
             continue;
